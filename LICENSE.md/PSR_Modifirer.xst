@@ -1,0 +1,5 @@
+set -tmpdir "E:/Proyecto3/xst/projnav.tmp"
+set -xsthdpdir "E:/Proyecto3/xst"
+elaborate
+-ifn PSR_Modifirer.prj
+-ifmt mixed

@@ -1,0 +1,2 @@
+vhdtdtfi -prj Proyecto1 -o C:/Users/JEULM/Desktop/arqui/Proyecto3/Psr.vhi -module Psr -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work Psr.vhd 
+vhdtdtfi -prj Proyecto1 -o E:/Proyecto4/Psr.vhi -module Psr -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work Psr.vhd 

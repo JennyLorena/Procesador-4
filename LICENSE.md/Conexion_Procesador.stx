@@ -1,0 +1,69 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to E:/Proyecto4/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.42 secs
+ 
+--> Parameter xsthdpdir set to E:/Proyecto4/xst
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.44 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "E:/Proyecto4/Sumador.vhd" in Library work.
+Entity <Sumador> compiled.
+Entity <Sumador> (Architecture <Behavioral>) compiled.
+Compiling vhdl file "E:/Proyecto4/nPc.vhd" in Library work.
+Entity <nPc> compiled.
+Entity <nPc> (Architecture <Behavioral>) compiled.
+Compiling vhdl file "E:/Proyecto4/pC.vhd" in Library work.
+Entity <pC> compiled.
+Entity <pC> (Architecture <Behavioral>) compiled.
+Compiling vhdl file "E:/Proyecto4/InstruccionesMemoria.vhd" in Library work.
+Entity <InstruccionesMemoria> compiled.
+Entity <InstruccionesMemoria> (Architecture <Behavioral>) compiled.
+Compiling vhdl file "E:/Proyecto4/UnidadControl.vhd" in Library work.
+Entity <UnidadControl> compiled.
+Entity <UnidadControl> (Architecture <Behavioral>) compiled.
+Compiling vhdl file "E:/Proyecto4/Register_File.vhd" in Library work.
+Entity <Register_File> compiled.
+Entity <Register_File> (Architecture <Behavioral>) compiled.
+Compiling vhdl file "E:/Proyecto4/muxx.vhd" in Library work.
+Entity <muxx> compiled.
+Entity <muxx> (Architecture <Behavioral>) compiled.
+Compiling vhdl file "E:/Proyecto4/SEU.vhd" in Library work.
+Entity <SEU> compiled.
+Entity <SEU> (Architecture <Behavioral>) compiled.
+Compiling vhdl file "E:/Proyecto4/Alu.vhd" in Library work.
+Entity <alu> compiled.
+Entity <alu> (Architecture <behavioral>) compiled.
+Compiling vhdl file "E:/Proyecto4/PSR_Modifirer.vhd" in Library work.
+Entity <PSR_Modifirer> compiled.
+Entity <PSR_Modifirer> (Architecture <Behavioral>) compiled.
+Compiling vhdl file "E:/Proyecto4/Psr.vhd" in Library work.
+Architecture behavioral of Entity psr is up to date.
+Compiling vhdl file "E:/Proyecto4/wm.vhd" in Library work.
+Architecture behavioral of Entity wm is up to date.
+Compiling vhdl file "E:/Proyecto4/Conexion_Procesador.vhd" in Library work.
+Entity <Conexion_Procesador> compiled.
+Entity <Conexion_Procesador> (Architecture <arq_Conexion_Procesador>) compiled.
+
+
+Total REAL time to Xst completion: 7.00 secs
+Total CPU time to Xst completion: 6.81 secs
+ 
+--> 
+
+Total memory usage is 326984 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+
