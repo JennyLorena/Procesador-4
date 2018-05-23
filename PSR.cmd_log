@@ -1,0 +1,2 @@
+vhdtdtfi -prj Procesador1 -o D:/Proyectos_Xilinx/Copias/Procesador3ConConexxion/PSR.vhi -module PSR -template C:/Xilinx/14.5/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work PSR.vhd 
+vhdtdtfi -prj Procesador1 -o D:/Proyectos_Xilinx/Copias/Procesador3ConConexxion/PSR.vhi -module PSR -template C:/Xilinx/14.5/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work PSR.vhd 

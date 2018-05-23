@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/utp/Desktop/Procesador4ConConexxion/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/utp/Desktop/Procesador4ConConexxion/xst"
+elaborate
+-ifn WindowsManager.prj
+-ifmt mixed

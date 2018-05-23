@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/utp/Desktop/Procesador4ConConexxion/tb_windows_manager_isim_beh.exe" -prj "C:/Users/utp/Desktop/Procesador4ConConexxion/tb_windows_manager_beh.prj" "work.tb_windows_manager" 
